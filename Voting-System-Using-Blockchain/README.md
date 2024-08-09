@@ -22,7 +22,7 @@
 
 ![Login Page] (https://github.com/PoojaRathod/Voting-System-Using-Blockchain/blob/main/public/Login%20SS.png)
 
-![Admin Page] (https://github.com/PoojaRathod/Voting-System-Using-Blockchain/blob/main/public/Admin%20SS.png)
+![Admin Page] https://github.com/PoojaRathod-15/Voting-System-Using-Blockchain/blob/main/Voting-System-Using-Blockchain/public/Admin%20SS.png
 
 ![Voter Page] (https://github.com/PoojaRathod/Voting-System-Using-Blockchain/blob/main/public/Index%20SS.png)
 
